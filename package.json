@@ -15,6 +15,14 @@
     "p7zip",
     "7zip",
     "bin"
+  ],,
+  "files": [
+    "*.js",
+    "LICENSE.md",
+    "README.md",
+    "binaries",
+    "lib",
+    "src"
   ],
   "dependencies": {
     "gulp": "^3.9.1",
