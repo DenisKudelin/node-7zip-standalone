@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "license": "MIT",
   "author": "Denis Kudelin", 
-  "main": "index.js"
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/DenisKudelin/node-7zip-standalone.git"
