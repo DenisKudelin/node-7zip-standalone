@@ -15,7 +15,7 @@
     "p7zip",
     "7zip",
     "bin"
-  ],,
+  ],
   "files": [
     "*.js",
     "LICENSE.md",
