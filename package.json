@@ -3,10 +3,19 @@
   "version": "0.0.3",
   "license": "MIT",
   "author": "Denis Kudelin", 
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/DenisKudelin/node-7zip-standalone.git"
   },
+  "keywords": [
+    "node",
+    "7z",
+    "7za",
+    "p7zip",
+    "7zip",
+    "bin"
+  ],
   "dependencies": {
     "gulp": "^3.9.1",
     "lodash": "^4.16.4",
