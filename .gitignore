@@ -18,3 +18,4 @@
 /node_modules
 /src/.vs
 /*debug.log
+*.tgz
